@@ -8,12 +8,12 @@ import { motion } from "framer-motion"
 import { Link } from "react-router-dom"
 
 const Hero = () => {
-  const scrollToContact = () => {
-    const element = document.getElementById("contact")
-    if (element) {
-      element.scrollIntoView({ behavior: "smooth" })
-    }
-  }
+  // const scrollToContact = () => {
+  //   const element = document.getElementById("contact")
+  //   if (element) {
+  //     element.scrollIntoView({ behavior: "smooth" })
+  //   }
+  // }
 
   const contentVariants = {
     hidden: { opacity: 0, y: 20 },
