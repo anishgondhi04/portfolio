@@ -17,8 +17,8 @@ const Projects = () => {
       ],
       technologies: ["TypeScript", "React.js", "Express.js", "Node.js", "AWS", "MongoDB", "GitHub"],
       image: WhyImBrokeImage,
-      github: "https://github.com/anishgondhi04/WhyImBroke",
-      demo: "https://github.com/anishgondhi04/WhyImBroke",
+      github: "https://github.com/PaladiumLab/WhyImBroke",
+      demo: "https://github.com/PaladiumLab/WhyImBroke",
     },
   ]
 
