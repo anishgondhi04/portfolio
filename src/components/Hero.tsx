@@ -73,7 +73,7 @@ const Hero = () => {
                   asChild
                   className="bg-white/80 border-slate-200 hover:bg-slate-100 text-slate-800 dark:bg-white/5 dark:border-white/10 dark:hover:bg-white/10 dark:text-white transition-all duration-300 pointer-events-auto"
                 >
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.icloud.com/iclouddrive/0c0orAiP_wEsuWdSnz_b27c6Q#Anish_v1_SWE" target="_blank" rel="noopener noreferrer">
                     Download Resume
                   </a>
                 </Button>
