@@ -4,28 +4,7 @@ import { Briefcase, GraduationCap } from "lucide-react"
 
 const Experience = () => {
   const experiences = [
-    {
-      title: "DevOps Engineer Intern",
-      company: "CareOnDemand",
-      period: "May 2022 – Mar 2023",
-      location: "Toronto, ON, Canada",
-      description: [
-        "Assisted in designing and implementing CI/CD pipelines using Jenkins, Docker, and AWS CodePipeline, AWS Codebuild reducing deployment time by 40% for mobile applications with zero downtime.",
-        "Managed AWS infrastructure using AWS CloudTrail, AWS Eventbridge, maintaining EC2 instances and implementing auto-scaling for cost optimization.",
-        "Implemented monitoring solutions using AWS CloudWatch, creating dashboards for application performance tracking.",
-      ],
-      skills: [
-        "Jenkins",
-        "Docker",
-        "AWS CodePipeline",
-        "AWS CodeBuild",
-        "AWS CloudTrail",
-        "AWS EventBridge",
-        "AWS CloudWatch",
-        "EC2",
-        "Auto-scaling",
-      ],
-    },
+    
     {
       title: "Software Engineer Co-op",
       company: "Emera Inc",
